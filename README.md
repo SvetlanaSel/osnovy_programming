@@ -3,7 +3,7 @@
 
 # Lab works:
 
-3. [Типы данных]()
+3. [Типы данных](https://github.com/SvetlanaSel/osnovy_programming/commit/b44852ac1240d3bc886a9a4769b3167adbd8e289)
 4. [Поток команд]()
 5. [Подпрограммы]()
 6. [Вычислительная сложность алгоритмов]()
